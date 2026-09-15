@@ -1,0 +1,4 @@
+Restaurant Menu
+1. Burger: 8.5
+2. Pizza: 18.55
+3. Sandwich: 8.5
